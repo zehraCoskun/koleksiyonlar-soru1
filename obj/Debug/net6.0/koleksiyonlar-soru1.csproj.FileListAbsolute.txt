@@ -1,0 +1,15 @@
+/Users/rabiazehraunal/Desktop/pratikler/koleksiyonlar-soru1/bin/Debug/net6.0/koleksiyonlar-soru1
+/Users/rabiazehraunal/Desktop/pratikler/koleksiyonlar-soru1/bin/Debug/net6.0/koleksiyonlar-soru1.deps.json
+/Users/rabiazehraunal/Desktop/pratikler/koleksiyonlar-soru1/bin/Debug/net6.0/koleksiyonlar-soru1.runtimeconfig.json
+/Users/rabiazehraunal/Desktop/pratikler/koleksiyonlar-soru1/bin/Debug/net6.0/koleksiyonlar-soru1.dll
+/Users/rabiazehraunal/Desktop/pratikler/koleksiyonlar-soru1/bin/Debug/net6.0/koleksiyonlar-soru1.pdb
+/Users/rabiazehraunal/Desktop/pratikler/koleksiyonlar-soru1/obj/Debug/net6.0/koleksiyonlar-soru1.csproj.AssemblyReference.cache
+/Users/rabiazehraunal/Desktop/pratikler/koleksiyonlar-soru1/obj/Debug/net6.0/koleksiyonlar-soru1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rabiazehraunal/Desktop/pratikler/koleksiyonlar-soru1/obj/Debug/net6.0/koleksiyonlar-soru1.AssemblyInfoInputs.cache
+/Users/rabiazehraunal/Desktop/pratikler/koleksiyonlar-soru1/obj/Debug/net6.0/koleksiyonlar-soru1.AssemblyInfo.cs
+/Users/rabiazehraunal/Desktop/pratikler/koleksiyonlar-soru1/obj/Debug/net6.0/koleksiyonlar-soru1.csproj.CoreCompileInputs.cache
+/Users/rabiazehraunal/Desktop/pratikler/koleksiyonlar-soru1/obj/Debug/net6.0/koleksiyonlar-soru1.dll
+/Users/rabiazehraunal/Desktop/pratikler/koleksiyonlar-soru1/obj/Debug/net6.0/refint/koleksiyonlar-soru1.dll
+/Users/rabiazehraunal/Desktop/pratikler/koleksiyonlar-soru1/obj/Debug/net6.0/koleksiyonlar-soru1.pdb
+/Users/rabiazehraunal/Desktop/pratikler/koleksiyonlar-soru1/obj/Debug/net6.0/koleksiyonlar-soru1.genruntimeconfig.cache
+/Users/rabiazehraunal/Desktop/pratikler/koleksiyonlar-soru1/obj/Debug/net6.0/ref/koleksiyonlar-soru1.dll
